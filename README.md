@@ -1,5 +1,5 @@
 
-# An Easy React-Redux-Hooks Demonstration App
+# A SuperEasy Demonstration of React | Redux | Hooks
 
 <img src="images/app_image.PNG"/>
 
